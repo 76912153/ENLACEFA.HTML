@@ -1,0 +1,32 @@
+* {
+    margin: 0;
+}
+.envase {
+    background:wheat;
+    width:100vw;
+    height:100vh;
+    text-align-last: center;
+}
+
+p {
+    font-size: xx-large;
+    padding: 20%;
+}
+
+button {
+    font-size: xx-large;
+    padding: 0,75em;
+}
+
+#yesBtn {
+    transform: traducir (-100%, 5);
+    background:yellow;
+}
+
+#noBtn {
+    position: absolute;
+    background:tomato;
+    /* top: 50%;
+    left: 0%;
+    transform: translate (0%, - 50%); */
+}
